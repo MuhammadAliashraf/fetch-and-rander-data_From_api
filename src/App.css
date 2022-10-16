@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.bgLight{
+  width: 900px !important;
+  display: flex;
+  height: 250px;
+  text-align: justify;
+}
